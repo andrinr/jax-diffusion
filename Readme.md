@@ -10,7 +10,9 @@ When sampling random noise (there is no conditioning), the results looks as foll
 
 the .gif depicts 5 different samples that are stacked horizontally. In the following image we observe how the model learned to predict the noise
 
-![Denoising Process](noise_pred.png).
+![Denoising Process](noise_pred.png). The noise sampling is shown in the plot below:
+
+![Noise Sampling](sampling.png)
 
 Finally a plot of the training loss over epochs is shown below:
 
